@@ -8,4 +8,9 @@ Git tracks changes of files.
 Git tracks changes.
 Creating a new branch is quick.
 Delete a branch.
+<<<<<<< HEAD
 Creating a new branch is quick @ simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> featurel
+Creating a new branch is quick and simple.
